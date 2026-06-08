@@ -13,8 +13,8 @@ def parse_pdf_date(pdf_date):
 def compare_pdf_data(bank, file_data):
     standards = {
         'Сбербанк': {
-            'version': '1.3',
-            'creator': 'JasperReports Library version 6.5.1',
+            'version': '1.5',
+            'creator': 'JasperReports Library version 6.18.1',
             'producer': '2.1.7 by 1T3XT'
         },
         'Т-Банк': {
